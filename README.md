@@ -7,6 +7,7 @@ Excel背单词，根据艾宾浩斯的记忆规律来使用，背单词周期为
 
 若对使用产生任何疑问，请联系shawn736.ios@gmail.com
 
+App icons by [icons8]https://icons8.com/
 词库的背景图片来自[Unsplash](https://unsplash.com/search/photos/star?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText):
 
 Photo by [Dino Reichmuth](https://unsplash.com/photos/d6yDSisNi4w?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash
