@@ -6,3 +6,16 @@ Excel背单词，根据艾宾浩斯的记忆规律来使用，背单词周期为
 背单词最重要的是**坚持**
 
 若对使用产生任何疑问，请联系shawn736.ios@gmail.com
+
+词库的背景图片来自Unsplash
+Photo by Dino Reichmuth on Unsplash
+Photo by nate rayfield on Unsplash
+Photo by Manuel Will on Unsplash
+Photo by kazuend on Unsplash
+Photo by Wil Stewart on Unsplash
+Photo by Clarisse Meyer on Unsplash
+Photo by Stanislav Kondratiev on Unsplash
+Photo by Matt Dodd on Unsplash
+Photo by Blaise Thirard on Unsplash
+Photo by Marco Bonomo on Unsplash
+Photo by Heiko Otto on Unsplash
