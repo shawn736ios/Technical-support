@@ -25,8 +25,6 @@ Excel背单词，根据艾宾浩斯的记忆规律来使用，背单词周期为
 
 2.点击底部栏当前 list的按钮，单词列表会快速滚动到顶部。
 
-背单词最重要的是**坚持**
-
 若对使用产生任何疑问，请联系shawn736.ios@gmail.com
 
 App icons by [icons8](https://icons8.com/)
