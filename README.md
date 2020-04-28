@@ -30,3 +30,11 @@ Photo by [Marco Bonomo](https://unsplash.com/photos/7fGCRRmtIaU?utm_source=unsp
 
 Photo by [Heiko Otto](https://unsplash.com/photos/DXyUu-e8PZc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash
 
+Correct sound by [bwg2020](https://freesound.org/people/bwg2020/sounds/456161/) on FreeSound
+
+Incorrect sound by [ertfelda](https://freesound.org/people/ertfelda/sounds/243700/) on FreeSound
+
+Success sound by [taira-komori](https://taira-komori.jpn.org/freesoundcn.html)
+
+Roboto-Black font by [Roboto](http://www.fontex.org/download/Roboto.ttf)
+
